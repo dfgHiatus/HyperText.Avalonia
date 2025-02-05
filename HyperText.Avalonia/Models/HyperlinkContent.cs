@@ -1,4 +1,7 @@
-﻿namespace HyperText.Avalonia.Models
+﻿using System.Diagnostics;
+using System.Runtime.InteropServices;
+
+namespace HyperText.Avalonia.Models
 {
     public class HyperlinkContent
     {
@@ -12,7 +15,7 @@
         /// </summary>
         public string Alias
         {
-            get; 
+            get;
             set;
         }
     }

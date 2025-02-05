@@ -9,8 +9,8 @@
         <TargetFrameworks>netstandard2.0;net6.0;net7.0;net8.0</TargetFrameworks>
     </PropertyGroup>
     <ItemGroup>
-        <PackageReference Include="Avalonia" Version="11.0.5" />
-        <PackageReference Include="Avalonia.Desktop" Version="11.0.5" />
+        <PackageReference Include="Avalonia" Version="11.2.3" />
+        <PackageReference Include="Avalonia.Desktop" Version="11.2.3" />
     </ItemGroup>
     <ItemGroup>
         <AvaloniaResource Include="**\*.xaml">
